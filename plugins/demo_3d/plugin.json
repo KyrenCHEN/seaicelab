@@ -1,0 +1,10 @@
+{
+  "id": "demo_3d_viz",
+  "name": "三维地物可视化（演示）",
+  "version": "1.0.0",
+  "description": "载入多波段GeoTIFF，选择任意波段作为Z轴（高程/厚度/强度等），支持归一化、对数、平方根等Z坐标变换及垂直拉伸，渲染交互式三维曲面。",
+  "author": "平台演示",
+  "viz_type": "3d",
+  "input_format": "tif",
+  "requires": ["numpy", "matplotlib", "rasterio"]
+}

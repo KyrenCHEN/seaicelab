@@ -1,0 +1,10 @@
+{
+  "id": "demo_ice_channel",
+  "name": "冰间水道提取（演示）",
+  "version": "1.0.0",
+  "description": "基于阈值分割的冰间水道初步提取演示，输入GeoTIFF，输出水道掩膜",
+  "author": "平台演示",
+  "viz_type": "2d",
+  "input_format": "geotiff",
+  "requires": ["numpy", "Pillow"]
+}

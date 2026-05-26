@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# 环境
+.env
+.venv
+venv/
+
+# 数据文件（通常很大，不入库）
+*.tif
+*.tiff
+*.nc
+*.nc4
+*.h5
+*.hdf5
+*.img
+*.dat
+
+# 工程文件（用户本地数据，不入库）
+*.seaice
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# VSCode
+.vscode/launch.json
+
+# 许可证缓存
+*.lic

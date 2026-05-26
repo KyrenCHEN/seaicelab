@@ -1,0 +1,10 @@
+{
+  "id": "demo_track_viz",
+  "name": "测线数据可视化（演示）",
+  "version": "1.0.0",
+  "description": "载入CSV测线文件，在地图上显示连续轨迹，单击点位查看地理剖面信息（2.5D）",
+  "author": "平台演示",
+  "viz_type": "2.5d",
+  "input_format": "csv",
+  "requires": ["numpy", "matplotlib"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "algo_library",
+  "name": "算法库",
+  "version": "1.0.0",
+  "description": "统一管理多个反演算法，通过下拉菜单选择算法运行，共享一套界面框架，无需为每个算法单独创建插件",
+  "author": "平台核心",
+  "viz_type": "2d",
+  "input_format": "tif",
+  "requires": ["numpy", "rasterio"]
+}

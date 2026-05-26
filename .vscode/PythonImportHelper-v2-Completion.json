@@ -1,0 +1,2970 @@
+[
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "QObject",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QThread",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QThread",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QThread",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QThread",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QEvent",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QObject",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QObject",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QObject",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QUrl",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSlot",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QThread",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "platform",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "platform",
+        "description": "platform",
+        "detail": "platform",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidSignature",
+        "importPath": "cryptography.exceptions",
+        "description": "cryptography.exceptions",
+        "isExtraImport": true,
+        "detail": "cryptography.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "hashes",
+        "importPath": "cryptography.hazmat.primitives",
+        "description": "cryptography.hazmat.primitives",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives",
+        "documentation": {}
+    },
+    {
+        "label": "serialization",
+        "importPath": "cryptography.hazmat.primitives",
+        "description": "cryptography.hazmat.primitives",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives",
+        "documentation": {}
+    },
+    {
+        "label": "padding",
+        "importPath": "cryptography.hazmat.primitives.asymmetric",
+        "description": "cryptography.hazmat.primitives.asymmetric",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.asymmetric",
+        "documentation": {}
+    },
+    {
+        "label": "importlib.util",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "importlib.util",
+        "description": "importlib.util",
+        "detail": "importlib.util",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "QCheckBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QComboBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QDoubleSpinBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFileDialog",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFormLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGroupBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLineEdit",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QProgressBar",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QCheckBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QComboBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QDoubleSpinBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFileDialog",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFormLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGroupBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLineEdit",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QProgressBar",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QScrollArea",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QSpinBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QComboBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QDoubleSpinBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFormLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGroupBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QProgressBar",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QSlider",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QComboBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QDoubleSpinBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFileDialog",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFormLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGroupBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLineEdit",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QProgressBar",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QSizePolicy",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QSpinBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QToolButton",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QComboBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFileDialog",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFormLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFrame",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGroupBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLineEdit",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QTableWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QTableWidgetItem",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QAbstractItemView",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFileDialog",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMenu",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMessageBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QToolBar",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QTreeWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QTreeWidgetItem",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QComboBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFileDialog",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLineEdit",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QDialog",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QDialogButtonBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFormLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGroupBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLineEdit",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QTabWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QTextEdit",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QComboBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QDockWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFileDialog",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMainWindow",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMenu",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMessageBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPlainTextEdit",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QProgressBar",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QStatusBar",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QTabWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QToolBar",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QDialog",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QDialogButtonBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QListWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QListWidgetItem",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QSplitter",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QTextEdit",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QCheckBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QDialog",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFileDialog",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFormLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGroupBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLineEdit",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMessageBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QProgressBar",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QDialog",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFileDialog",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFrame",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QInputDialog",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QListWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QListWidgetItem",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMessageBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QApplication",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QApplication",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMainWindow",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QDockWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "BasePlugin",
+        "importPath": "plugins.base",
+        "description": "plugins.base",
+        "isExtraImport": true,
+        "detail": "plugins.base",
+        "documentation": {}
+    },
+    {
+        "label": "BasePlugin",
+        "importPath": "plugins.base",
+        "description": "plugins.base",
+        "isExtraImport": true,
+        "detail": "plugins.base",
+        "documentation": {}
+    },
+    {
+        "label": "BasePlugin",
+        "importPath": "plugins.base",
+        "description": "plugins.base",
+        "isExtraImport": true,
+        "detail": "plugins.base",
+        "documentation": {}
+    },
+    {
+        "label": "BasePlugin",
+        "importPath": "plugins.base",
+        "description": "plugins.base",
+        "isExtraImport": true,
+        "detail": "plugins.base",
+        "documentation": {}
+    },
+    {
+        "label": "BasePlugin",
+        "importPath": "plugins.base",
+        "description": "plugins.base",
+        "isExtraImport": true,
+        "detail": "plugins.base",
+        "documentation": {}
+    },
+    {
+        "label": "AlgorithmBase",
+        "importPath": "plugins.algo_library.algo_base",
+        "description": "plugins.algo_library.algo_base",
+        "isExtraImport": true,
+        "detail": "plugins.algo_library.algo_base",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "DataSelectorWidget",
+        "importPath": "ui.data_selector",
+        "description": "ui.data_selector",
+        "isExtraImport": true,
+        "detail": "ui.data_selector",
+        "documentation": {}
+    },
+    {
+        "label": "DataSelectorWidget",
+        "importPath": "ui.data_selector",
+        "description": "ui.data_selector",
+        "isExtraImport": true,
+        "detail": "ui.data_selector",
+        "documentation": {}
+    },
+    {
+        "label": "DataSelectorWidget",
+        "importPath": "ui.data_selector",
+        "description": "ui.data_selector",
+        "isExtraImport": true,
+        "detail": "ui.data_selector",
+        "documentation": {}
+    },
+    {
+        "label": "QColor",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QIcon",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPainter",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPixmap",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "struct",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "struct",
+        "description": "struct",
+        "detail": "struct",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "DataManager",
+        "importPath": "core.data_manager",
+        "description": "core.data_manager",
+        "isExtraImport": true,
+        "detail": "core.data_manager",
+        "documentation": {}
+    },
+    {
+        "label": "DataEntry",
+        "importPath": "core.data_manager",
+        "description": "core.data_manager",
+        "isExtraImport": true,
+        "detail": "core.data_manager",
+        "documentation": {}
+    },
+    {
+        "label": "DataManager",
+        "importPath": "core.data_manager",
+        "description": "core.data_manager",
+        "isExtraImport": true,
+        "detail": "core.data_manager",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {}
+    },
+    {
+        "label": "bus",
+        "importPath": "core.events",
+        "description": "core.events",
+        "isExtraImport": true,
+        "detail": "core.events",
+        "documentation": {}
+    },
+    {
+        "label": "PluginContext",
+        "importPath": "core.plugin_manager",
+        "description": "core.plugin_manager",
+        "isExtraImport": true,
+        "detail": "core.plugin_manager",
+        "documentation": {}
+    },
+    {
+        "label": "PluginManager",
+        "importPath": "core.plugin_manager",
+        "description": "core.plugin_manager",
+        "isExtraImport": true,
+        "detail": "core.plugin_manager",
+        "documentation": {}
+    },
+    {
+        "label": "DatasetRecord",
+        "importPath": "core.project",
+        "description": "core.project",
+        "isExtraImport": true,
+        "detail": "core.project",
+        "documentation": {}
+    },
+    {
+        "label": "Project",
+        "importPath": "core.project",
+        "description": "core.project",
+        "isExtraImport": true,
+        "detail": "core.project",
+        "documentation": {}
+    },
+    {
+        "label": "PROJECT_EXT",
+        "importPath": "core.project",
+        "description": "core.project",
+        "isExtraImport": true,
+        "detail": "core.project",
+        "documentation": {}
+    },
+    {
+        "label": "Project",
+        "importPath": "core.project",
+        "description": "core.project",
+        "isExtraImport": true,
+        "detail": "core.project",
+        "documentation": {}
+    },
+    {
+        "label": "PROJECT_EXT",
+        "importPath": "core.project",
+        "description": "core.project",
+        "isExtraImport": true,
+        "detail": "core.project",
+        "documentation": {}
+    },
+    {
+        "label": "DataPanel",
+        "importPath": "ui.data_panel",
+        "description": "ui.data_panel",
+        "isExtraImport": true,
+        "detail": "ui.data_panel",
+        "documentation": {}
+    },
+    {
+        "label": "MapWidget",
+        "importPath": "ui.map_widget",
+        "description": "ui.map_widget",
+        "isExtraImport": true,
+        "detail": "ui.map_widget",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "QWebChannel",
+        "importPath": "PyQt6.QtWebChannel",
+        "description": "PyQt6.QtWebChannel",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWebChannel",
+        "documentation": {}
+    },
+    {
+        "label": "QWebEngineView",
+        "importPath": "PyQt6.QtWebEngineWidgets",
+        "description": "PyQt6.QtWebEngineWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWebEngineWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWebEngineView",
+        "importPath": "PyQt6.QtWebEngineWidgets",
+        "description": "PyQt6.QtWebEngineWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWebEngineWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "LicenseManager",
+        "importPath": "core.license",
+        "description": "core.license",
+        "isExtraImport": true,
+        "detail": "core.license",
+        "documentation": {}
+    },
+    {
+        "label": "STYLESHEET",
+        "importPath": "ui.style",
+        "description": "ui.style",
+        "isExtraImport": true,
+        "detail": "ui.style",
+        "documentation": {}
+    },
+    {
+        "label": "load",
+        "kind": 2,
+        "importPath": "core.config",
+        "description": "core.config",
+        "peekOfCode": "def load() -> dict:\n    try:\n        if os.path.exists(_CONFIG_FILE):\n            with open(_CONFIG_FILE, \"r\", encoding=\"utf-8\") as f:\n                return json.load(f)\n    except Exception:\n        pass\n    return {}\ndef save(data: dict):\n    os.makedirs(os.path.dirname(_CONFIG_FILE), exist_ok=True)",
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "save",
+        "kind": 2,
+        "importPath": "core.config",
+        "description": "core.config",
+        "peekOfCode": "def save(data: dict):\n    os.makedirs(os.path.dirname(_CONFIG_FILE), exist_ok=True)\n    with open(_CONFIG_FILE, \"w\", encoding=\"utf-8\") as f:\n        json.dump(data, f, ensure_ascii=False, indent=2)\ndef get(key: str, default=None):\n    return load().get(key, default)\ndef set(key: str, value):\n    data = load()\n    data[key] = value\n    save(data)",
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "get",
+        "kind": 2,
+        "importPath": "core.config",
+        "description": "core.config",
+        "peekOfCode": "def get(key: str, default=None):\n    return load().get(key, default)\ndef set(key: str, value):\n    data = load()\n    data[key] = value\n    save(data)",
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "set",
+        "kind": 2,
+        "importPath": "core.config",
+        "description": "core.config",
+        "peekOfCode": "def set(key: str, value):\n    data = load()\n    data[key] = value\n    save(data)",
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "_CONFIG_FILE",
+        "kind": 5,
+        "importPath": "core.config",
+        "description": "core.config",
+        "peekOfCode": "_CONFIG_FILE = os.path.join(os.path.expanduser(\"~\"), \".seaice_platform\", \"config.json\")\ndef load() -> dict:\n    try:\n        if os.path.exists(_CONFIG_FILE):\n            with open(_CONFIG_FILE, \"r\", encoding=\"utf-8\") as f:\n                return json.load(f)\n    except Exception:\n        pass\n    return {}\ndef save(data: dict):",
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "DataEntry",
+        "kind": 6,
+        "importPath": "core.data_manager",
+        "description": "core.data_manager",
+        "peekOfCode": "class DataEntry:\n    \"\"\"单个数据集条目（内存中）。\"\"\"\n    def __init__(self, ds_id: str, name: str, path: str, dtype: str):\n        self.ds_id = ds_id\n        self.name  = name\n        self.path  = path\n        self.dtype = dtype\n    @property\n    def icon(self) -> str:\n        return DTYPE_ICON.get(self.dtype, \"📁\")",
+        "detail": "core.data_manager",
+        "documentation": {}
+    },
+    {
+        "label": "DataManager",
+        "kind": 6,
+        "importPath": "core.data_manager",
+        "description": "core.data_manager",
+        "peekOfCode": "class DataManager(QObject):\n    \"\"\"\n    全局数据集注册表。\n    信号：\n        dataset_added(ds_id)    — 新数据集注册后\n        dataset_removed(ds_id)  — 数据集移除后\n        cleared()               — 全部清除后\n    \"\"\"\n    dataset_added   = pyqtSignal(str)\n    dataset_removed = pyqtSignal(str)",
+        "detail": "core.data_manager",
+        "documentation": {}
+    },
+    {
+        "label": "guess_dtype",
+        "kind": 2,
+        "importPath": "core.data_manager",
+        "description": "core.data_manager",
+        "peekOfCode": "def guess_dtype(path: str) -> str:\n    ext = os.path.splitext(path)[1].lower()\n    return _EXT_MAP.get(ext, \"Other\")\nclass DataEntry:\n    \"\"\"单个数据集条目（内存中）。\"\"\"\n    def __init__(self, ds_id: str, name: str, path: str, dtype: str):\n        self.ds_id = ds_id\n        self.name  = name\n        self.path  = path\n        self.dtype = dtype",
+        "detail": "core.data_manager",
+        "documentation": {}
+    },
+    {
+        "label": "EventBus",
+        "kind": 6,
+        "importPath": "core.events",
+        "description": "core.events",
+        "peekOfCode": "class EventBus:\n    def __init__(self):\n        self._handlers = defaultdict(list)\n    def subscribe(self, event: str, handler):\n        if handler not in self._handlers[event]:\n            self._handlers[event].append(handler)\n    def unsubscribe(self, event: str, handler):\n        self._handlers[event] = [h for h in self._handlers[event] if h != handler]\n    def publish(self, event: str, data=None):\n        for handler in list(self._handlers[event]):",
+        "detail": "core.events",
+        "documentation": {}
+    },
+    {
+        "label": "bus",
+        "kind": 5,
+        "importPath": "core.events",
+        "description": "core.events",
+        "peekOfCode": "bus = EventBus()",
+        "detail": "core.events",
+        "documentation": {}
+    },
+    {
+        "label": "LicenseManager",
+        "kind": 6,
+        "importPath": "core.license",
+        "description": "core.license",
+        "peekOfCode": "class LicenseManager:\n    LICENSE_FILE = os.path.join(os.path.expanduser(\"~\"), \".seaice_platform\", \"license.lic\")\n    def __init__(self):\n        self._valid = False\n        self._info: dict = {}\n    def check(self) -> tuple[bool, str]:\n        if not os.path.exists(self.LICENSE_FILE):\n            return False, \"未找到许可证文件\"\n        try:\n            with open(self.LICENSE_FILE, \"r\", encoding=\"utf-8\") as f:",
+        "detail": "core.license",
+        "documentation": {}
+    },
+    {
+        "label": "get_hardware_id",
+        "kind": 2,
+        "importPath": "core.license",
+        "description": "core.license",
+        "peekOfCode": "def get_hardware_id() -> str:\n    mac = uuid.getnode()\n    node = platform.node()\n    raw = f\"{mac}:{node}:{platform.system()}\".encode()\n    return hashlib.sha256(raw).hexdigest()[:32]\nclass LicenseManager:\n    LICENSE_FILE = os.path.join(os.path.expanduser(\"~\"), \".seaice_platform\", \"license.lic\")\n    def __init__(self):\n        self._valid = False\n        self._info: dict = {}",
+        "detail": "core.license",
+        "documentation": {}
+    },
+    {
+        "label": "_PUBLIC_KEY_PEM",
+        "kind": 5,
+        "importPath": "core.license",
+        "description": "core.license",
+        "peekOfCode": "_PUBLIC_KEY_PEM = b\"\"\"\\\n-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2a2rwplBQLzHPZe5TNJF\nHgCkBuFJcUTNMQMRsVfqMXbV8QJe5eMzPGnbGfEYanMEqJtmJ3LzorOkwKbLuEM\ndMfXH5eXhQPL0Br7GHJeP5F4vJTnNxPLMPeEz6vbmkKz5HmqJjGNrK/vOQ+YHFM\n9e9tY01Q2b1R0X7bKHfVTHW7E9wMnJT4NMv4TcP8WP8tHqZMhMz7tNJpUblMf2y\nrI3KGr5X8y2QhgSCn+gv6tPFl9B6XQrEQT5g3eHqFrdWYnl5Pv8oVmWHjqyCLf\nlP8qBFPLqOQjFKbdyxG8qJ0jV7mKlTiP7kCf8KgNbhP5Iy6nX2n5YTqGvEIQvQ\nIDAQAB\n-----END PUBLIC KEY-----",
+        "detail": "core.license",
+        "documentation": {}
+    },
+    {
+        "label": "ADMIN_MASTER_CODE",
+        "kind": 5,
+        "importPath": "core.license",
+        "description": "core.license",
+        "peekOfCode": "ADMIN_MASTER_CODE = \"SEAICE-ADMIN-2025\"\ndef get_hardware_id() -> str:\n    mac = uuid.getnode()\n    node = platform.node()\n    raw = f\"{mac}:{node}:{platform.system()}\".encode()\n    return hashlib.sha256(raw).hexdigest()[:32]\nclass LicenseManager:\n    LICENSE_FILE = os.path.join(os.path.expanduser(\"~\"), \".seaice_platform\", \"license.lic\")\n    def __init__(self):\n        self._valid = False",
+        "detail": "core.license",
+        "documentation": {}
+    },
+    {
+        "label": "PluginContext",
+        "kind": 6,
+        "importPath": "core.plugin_manager",
+        "description": "core.plugin_manager",
+        "peekOfCode": "class PluginContext:\n    \"\"\"传递给插件的上下文对象，提供平台能力接口\"\"\"\n    def __init__(self, map_widget, log_fn, event_bus, data_manager=None):\n        self.map    = map_widget       # MapWidget 实例\n        self.log    = log_fn           # log(msg) 函数\n        self.events = event_bus        # EventBus 实例\n        self.data   = data_manager     # DataManager 实例（可为 None）\nclass PluginManager:\n    def __init__(self, plugins_dir: str):\n        self.plugins_dir = plugins_dir",
+        "detail": "core.plugin_manager",
+        "documentation": {}
+    },
+    {
+        "label": "PluginManager",
+        "kind": 6,
+        "importPath": "core.plugin_manager",
+        "description": "core.plugin_manager",
+        "peekOfCode": "class PluginManager:\n    def __init__(self, plugins_dir: str):\n        self.plugins_dir = plugins_dir\n        self._available: dict[str, dict] = {}   # id -> metadata\n        self._loaded: dict[str, \"BasePlugin\"] = {}  # id -> instance\n    def discover(self) -> dict[str, dict]:\n        self._available.clear()\n        if not os.path.isdir(self.plugins_dir):\n            return {}\n        for name in sorted(os.listdir(self.plugins_dir)):",
+        "detail": "core.plugin_manager",
+        "documentation": {}
+    },
+    {
+        "label": "DatasetRecord",
+        "kind": 6,
+        "importPath": "core.project",
+        "description": "core.project",
+        "peekOfCode": "class DatasetRecord:\n    \"\"\"工程中存储的一个数据集记录。\"\"\"\n    name: str\n    path: str\n    dtype: str = \"Other\"\n    def to_dict(self) -> dict:\n        return {\"name\": self.name, \"path\": self.path, \"dtype\": self.dtype}\n    @classmethod\n    def from_dict(cls, d: dict) -> \"DatasetRecord\":\n        return cls(name=d.get(\"name\", \"\"), path=d.get(\"path\", \"\"),",
+        "detail": "core.project",
+        "documentation": {}
+    },
+    {
+        "label": "Project",
+        "kind": 6,
+        "importPath": "core.project",
+        "description": "core.project",
+        "peekOfCode": "class Project:\n    name:           str  = \"未命名工程\"\n    work_dir:       str  = \"\"\n    basemap:        str  = \"OpenStreetMap\"\n    datasets:       list = field(default_factory=list)   # list[DatasetRecord]\n    loaded_plugins: list = field(default_factory=list)   # list[str]\n    file_path: Optional[str] = None   # None = 未保存\n    # ── 序列化 ──────────────────────────────────────────────────────────────\n    def to_dict(self) -> dict:\n        return {",
+        "detail": "core.project",
+        "documentation": {}
+    },
+    {
+        "label": "PROJECT_EXT",
+        "kind": 5,
+        "importPath": "core.project",
+        "description": "core.project",
+        "peekOfCode": "PROJECT_EXT = \".seaice\"\n_VERSION = \"1.0\"\n@dataclass\nclass DatasetRecord:\n    \"\"\"工程中存储的一个数据集记录。\"\"\"\n    name: str\n    path: str\n    dtype: str = \"Other\"\n    def to_dict(self) -> dict:\n        return {\"name\": self.name, \"path\": self.path, \"dtype\": self.dtype}",
+        "detail": "core.project",
+        "documentation": {}
+    },
+    {
+        "label": "_VERSION",
+        "kind": 5,
+        "importPath": "core.project",
+        "description": "core.project",
+        "peekOfCode": "_VERSION = \"1.0\"\n@dataclass\nclass DatasetRecord:\n    \"\"\"工程中存储的一个数据集记录。\"\"\"\n    name: str\n    path: str\n    dtype: str = \"Other\"\n    def to_dict(self) -> dict:\n        return {\"name\": self.name, \"path\": self.path, \"dtype\": self.dtype}\n    @classmethod",
+        "detail": "core.project",
+        "documentation": {}
+    },
+    {
+        "label": "ReportConfig",
+        "kind": 6,
+        "importPath": "core.report",
+        "description": "core.report",
+        "peekOfCode": "class ReportConfig:\n    title:           str  = \"海冰多参数综合反演分析报告\"\n    author:          str  = \"\"\n    note:            str  = \"\"\n    include_map:     bool = True\n    include_figures: bool = True\n    include_meta:    bool = True\n    fmt_html:        bool = True\n    fmt_pdf:         bool = False\n    fmt_docx:        bool = False",
+        "detail": "core.report",
+        "documentation": {}
+    },
+    {
+        "label": "ReportAssets",
+        "kind": 6,
+        "importPath": "core.report",
+        "description": "core.report",
+        "peekOfCode": "class ReportAssets:\n    timestamp: str        = \"\"\n    map_png:   Optional[bytes] = None\n    figures:   list       = field(default_factory=list)  # [{\"title\": str, \"png\": bytes}]\n    metadata:  dict       = field(default_factory=dict)\n# ─────────────────────────────────────────────────────────────────────────────\n#  数据收集\n# ─────────────────────────────────────────────────────────────────────────────\ndef collect_map_screenshot(map_widget) -> Optional[bytes]:\n    \"\"\"",
+        "detail": "core.report",
+        "documentation": {}
+    },
+    {
+        "label": "collect_map_screenshot",
+        "kind": 2,
+        "importPath": "core.report",
+        "description": "core.report",
+        "peekOfCode": "def collect_map_screenshot(map_widget) -> Optional[bytes]:\n    \"\"\"\n    截取地图 Widget 为 PNG bytes。\n    QWebEngineView 由独立 GPU 进程渲染，widget.grab() 只能拿到灰色占位层。\n    改用 QScreen.grabWindow(native_winId) 在操作系统合成层截图。\n    调用前应确保地图 Tab 已激活并处理完渲染事件。\n    \"\"\"\n    try:\n        from PyQt6.QtCore import QBuffer, QByteArray, QEventLoop, QIODevice, QTimer\n        from PyQt6.QtWidgets import QApplication",
+        "detail": "core.report",
+        "documentation": {}
+    },
+    {
+        "label": "collect_viz_figures",
+        "kind": 2,
+        "importPath": "core.report",
+        "description": "core.report",
+        "peekOfCode": "def collect_viz_figures(plugin_manager) -> list:\n    \"\"\"从所有已加载插件的可视化 Tab 中抓取 matplotlib 图表（PNG bytes）。\"\"\"\n    figures = []\n    try:\n        from matplotlib.backends.backend_qtagg import FigureCanvasQTAgg\n    except ImportError:\n        return figures\n    for pid in plugin_manager.get_loaded_ids():\n        plugin = plugin_manager.get_plugin(pid)\n        if not plugin:",
+        "detail": "core.report",
+        "documentation": {}
+    },
+    {
+        "label": "build_html",
+        "kind": 2,
+        "importPath": "core.report",
+        "description": "core.report",
+        "peekOfCode": "def build_html(config: ReportConfig, assets: ReportAssets) -> str:\n    sections = []\n    if config.include_meta:\n        meta_rows = \"\".join(\n            f\"<tr><td>{k}</td><td>{v}</td></tr>\"\n            for k, v in assets.metadata.items()\n        )\n        sections.append(f\"\"\"\n<h2>元数据信息</h2>\n<table class=\"meta\">",
+        "detail": "core.report",
+        "documentation": {}
+    },
+    {
+        "label": "export_html",
+        "kind": 2,
+        "importPath": "core.report",
+        "description": "core.report",
+        "peekOfCode": "def export_html(config: ReportConfig, assets: ReportAssets, path: str):\n    html = build_html(config, assets)\n    with open(path, \"w\", encoding=\"utf-8\") as f:\n        f.write(html)\n# ─────────────────────────────────────────────────────────────────────────────\n#  PDF 生成（依赖 reportlab）\n# ─────────────────────────────────────────────────────────────────────────────\ndef export_pdf(config: ReportConfig, assets: ReportAssets, path: str):\n    try:\n        from reportlab.lib import colors",
+        "detail": "core.report",
+        "documentation": {}
+    },
+    {
+        "label": "export_pdf",
+        "kind": 2,
+        "importPath": "core.report",
+        "description": "core.report",
+        "peekOfCode": "def export_pdf(config: ReportConfig, assets: ReportAssets, path: str):\n    try:\n        from reportlab.lib import colors\n        from reportlab.lib.pagesizes import A4\n        from reportlab.lib.styles import ParagraphStyle\n        from reportlab.lib.units import cm\n        from reportlab.pdfbase import pdfmetrics\n        from reportlab.pdfbase.ttfonts import TTFont\n        from reportlab.platypus import (\n            HRFlowable, Image, Paragraph, SimpleDocTemplate, Spacer, Table,",
+        "detail": "core.report",
+        "documentation": {}
+    },
+    {
+        "label": "export_docx",
+        "kind": 2,
+        "importPath": "core.report",
+        "description": "core.report",
+        "peekOfCode": "def export_docx(config: ReportConfig, assets: ReportAssets, path: str):\n    try:\n        from docx import Document\n        from docx.enum.text import WD_ALIGN_PARAGRAPH\n        from docx.shared import Inches, Pt, RGBColor\n    except ImportError:\n        raise RuntimeError(\"DOCX 导出需要安装 python-docx：pip install python-docx\")\n    doc = Document()\n    # 页面边距\n    for section in doc.sections:",
+        "detail": "core.report",
+        "documentation": {}
+    },
+    {
+        "label": "check_deps",
+        "kind": 2,
+        "importPath": "core.report",
+        "description": "core.report",
+        "peekOfCode": "def check_deps() -> dict:\n    \"\"\"返回各格式依赖的可用状态 {'html': True, 'pdf': bool, 'docx': bool}。\"\"\"\n    result = {\"html\": True, \"pdf\": False, \"docx\": False}\n    try:\n        import reportlab  # noqa: F401\n        result[\"pdf\"] = True\n    except ImportError:\n        pass\n    try:\n        import docx  # noqa: F401",
+        "detail": "core.report",
+        "documentation": {}
+    },
+    {
+        "label": "_AlgorithmWorker",
+        "kind": 6,
+        "importPath": "plugins._template.main",
+        "description": "plugins._template.main",
+        "peekOfCode": "class _AlgorithmWorker(QThread):\n    \"\"\"\n    将耗时计算放在子线程，避免阻塞 UI。\n    信号：\n        progress(int, str)   — 进度百分比 + 状态描述，供面板进度条展示\n        result_ready(dict)   — 算法完成，携带结果字典\n        failed(str)          — 算法异常，携带 traceback 字符串\n    注意：result_ready 不能命名为 finished（会与 QThread.finished 冲突）。\n    \"\"\"\n    progress     = pyqtSignal(int, str)",
+        "detail": "plugins._template.main",
+        "documentation": {}
+    },
+    {
+        "label": "Plugin",
+        "kind": 6,
+        "importPath": "plugins._template.main",
+        "description": "plugins._template.main",
+        "peekOfCode": "class Plugin(BasePlugin):\n    \"\"\"\n    插件类名必须为 Plugin，不可更改。\n    平台通过 `mod.Plugin()` 创建实例，再调用 on_load(ctx)。\n    \"\"\"\n    # 地图图层 ID，用于 remove_layer 时精确清除本插件的图层\n    LAYER_ID = \"template_result_layer\"\n    # ── 生命周期 ─────────────────────────────────────────────────────────────\n    def on_load(self, ctx):\n        \"\"\"",
+        "detail": "plugins._template.main",
+        "documentation": {}
+    },
+    {
+        "label": "DemoAlgorithm",
+        "kind": 6,
+        "importPath": "plugins.algo_library.algorithms.demo_algo",
+        "description": "plugins.algo_library.algorithms.demo_algo",
+        "peekOfCode": "class DemoAlgorithm(AlgorithmBase):\n    @property\n    def name(self) -> str:\n        return \"示例：阈值分割\"\n    @property\n    def description(self) -> str:\n        return (\n            \"读取单波段 GeoTIFF，对像元值做阈值分割。\\n\"\n            \"大于阈值的像元保留原值，其余设为 NaN。\\n\"\n            \"用于演示算法接入流程，可替换为实际反演算法。\"",
+        "detail": "plugins.algo_library.algorithms.demo_algo",
+        "documentation": {}
+    },
+    {
+        "label": "AlgorithmBase",
+        "kind": 6,
+        "importPath": "plugins.algo_library.algo_base",
+        "description": "plugins.algo_library.algo_base",
+        "peekOfCode": "class AlgorithmBase(ABC):\n    \"\"\"\n    所有反演算法的抽象基类。\n    子类在独立文件中实现，无需继承 BasePlugin，也无需了解 Qt。\n    \"\"\"\n    # ── 必须定义的类属性 ─────────────────────────────────────────────────────\n    @property\n    @abstractmethod\n    def name(self) -> str:\n        \"\"\"算法显示名称，例如 '基于 ASL 的冰厚反演'\"\"\"",
+        "detail": "plugins.algo_library.algo_base",
+        "documentation": {}
+    },
+    {
+        "label": "_AlgoRunner",
+        "kind": 6,
+        "importPath": "plugins.algo_library.main",
+        "description": "plugins.algo_library.main",
+        "peekOfCode": "class _AlgoRunner(QThread):\n    progress     = pyqtSignal(int, str)\n    result_ready = pyqtSignal(dict)\n    failed       = pyqtSignal(str)\n    def __init__(self, algo, params):\n        super().__init__()\n        self._algo   = algo\n        self._params = params\n    def run(self):\n        try:",
+        "detail": "plugins.algo_library.main",
+        "documentation": {}
+    },
+    {
+        "label": "Plugin",
+        "kind": 6,
+        "importPath": "plugins.algo_library.main",
+        "description": "plugins.algo_library.main",
+        "peekOfCode": "class Plugin(BasePlugin):\n    LAYER_ID = \"algo_library_result\"\n    def on_load(self, ctx):\n        self.ctx    = ctx\n        self._panel = None\n        self._worker = None\n        self._algos  = []      # [AlgorithmBase实例, ...]\n        self._cur_algo = None\n        self._param_widgets = {}   # key → QWidget\n        self._load_algorithms()",
+        "detail": "plugins.algo_library.main",
+        "documentation": {}
+    },
+    {
+        "label": "IceChannelWorker",
+        "kind": 6,
+        "importPath": "plugins.demo_2d.main",
+        "description": "plugins.demo_2d.main",
+        "peekOfCode": "class IceChannelWorker(QThread):\n    progress = pyqtSignal(int, str)\n    finished = pyqtSignal(object)\n    failed = pyqtSignal(str)\n    def __init__(self, params):\n        super().__init__()\n        self.params = params\n    def run(self):\n        try:\n            self.progress.emit(10, \"读取数据...\")",
+        "detail": "plugins.demo_2d.main",
+        "documentation": {}
+    },
+    {
+        "label": "Plugin",
+        "kind": 6,
+        "importPath": "plugins.demo_2d.main",
+        "description": "plugins.demo_2d.main",
+        "peekOfCode": "class Plugin(BasePlugin):\n    LAYER_RAW = \"ice_channel_raw\"\n    LAYER_MASK = \"ice_channel_mask\"\n    def on_load(self, ctx):\n        self.ctx = ctx\n        self._worker = None\n        self._panel = None\n        ctx.log(f\"[{self.name}] 已加载\")\n    def on_unload(self):\n        if self._worker and self._worker.isRunning():",
+        "detail": "plugins.demo_2d.main",
+        "documentation": {}
+    },
+    {
+        "label": "Surface3DWorker",
+        "kind": 6,
+        "importPath": "plugins.demo_3d.main",
+        "description": "plugins.demo_3d.main",
+        "peekOfCode": "class Surface3DWorker(QThread):\n    progress = pyqtSignal(int, str)\n    finished = pyqtSignal(dict)\n    failed   = pyqtSignal(str)\n    def __init__(self, params: dict):\n        super().__init__()\n        self.params = params\n    def run(self):\n        try:\n            self.progress.emit(10, \"读取文件...\")",
+        "detail": "plugins.demo_3d.main",
+        "documentation": {}
+    },
+    {
+        "label": "Surface3DCanvas",
+        "kind": 6,
+        "importPath": "plugins.demo_3d.main",
+        "description": "plugins.demo_3d.main",
+        "peekOfCode": "class Surface3DCanvas(QWidget):\n    BG = \"#080F1A\"\n    PANE = \"#0D1826\"\n    def __init__(self, parent=None):\n        super().__init__(parent)\n        self._cbar = None   # 当前 colorbar 引用，用于下次渲染前移除\n        lay = QVBoxLayout(self)\n        lay.setContentsMargins(0, 0, 0, 0)\n        lay.setSpacing(0)\n        if not HAS_MPL:",
+        "detail": "plugins.demo_3d.main",
+        "documentation": {}
+    },
+    {
+        "label": "Plugin",
+        "kind": 6,
+        "importPath": "plugins.demo_3d.main",
+        "description": "plugins.demo_3d.main",
+        "peekOfCode": "class Plugin(BasePlugin):\n    def on_load(self, ctx):\n        self.ctx = ctx\n        self._panel  = None\n        self._canvas = None\n        self._worker = None\n        self._band_names: list[str] = []\n        ctx.log(f\"[{self.name}] 已加载\")\n    def on_unload(self):\n        if self._worker and self._worker.isRunning():",
+        "detail": "plugins.demo_3d.main",
+        "documentation": {}
+    },
+    {
+        "label": "_ResizeFilter",
+        "kind": 6,
+        "importPath": "plugins.demo_track.main",
+        "description": "plugins.demo_track.main",
+        "peekOfCode": "class _ResizeFilter(QObject):\n    \"\"\"监听父 Widget 的 Resize 事件，通知 overlay 重新定位\"\"\"\n    def __init__(self, overlay):\n        super().__init__(overlay)\n        self._overlay = overlay\n    def eventFilter(self, obj, event):\n        if event.type() == QEvent.Type.Resize:\n            self._overlay._reposition()\n        return False\nclass ProfileOverlay(QFrame):",
+        "detail": "plugins.demo_track.main",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileOverlay",
+        "kind": 6,
+        "importPath": "plugins.demo_track.main",
+        "description": "plugins.demo_track.main",
+        "peekOfCode": "class ProfileOverlay(QFrame):\n    \"\"\"固定于地图右下角的浮动剖面/属性面板\"\"\"\n    W, H = 300, 260\n    def __init__(self, parent_map: QWidget):\n        super().__init__(parent_map)\n        self.setObjectName(\"profile_overlay\")\n        self.setFixedSize(self.W, self.H)\n        # 深色卡片外观\n        self.setStyleSheet(\"\"\"\n            QFrame#profile_overlay {",
+        "detail": "plugins.demo_track.main",
+        "documentation": {}
+    },
+    {
+        "label": "Plugin",
+        "kind": 6,
+        "importPath": "plugins.demo_track.main",
+        "description": "plugins.demo_track.main",
+        "peekOfCode": "class Plugin(BasePlugin):\n    def on_load(self, ctx):\n        self.ctx = ctx\n        self._panel = None\n        self._track_data: list[dict] = []\n        self._overlay = ProfileOverlay(ctx.map)\n        ctx.map.map_clicked.connect(self._on_map_click)\n        ctx.log(f\"[{self.name}] 已加载\")\n    def on_unload(self):\n        try:",
+        "detail": "plugins.demo_track.main",
+        "documentation": {}
+    },
+    {
+        "label": "LAYER_MARKERS",
+        "kind": 5,
+        "importPath": "plugins.demo_track.main",
+        "description": "plugins.demo_track.main",
+        "peekOfCode": "LAYER_MARKERS = \"track_markers\"\n# ─────────────────────────────────────────────────────────────────────────────\n#  悬浮剖面面板\n# ─────────────────────────────────────────────────────────────────────────────\nclass _ResizeFilter(QObject):\n    \"\"\"监听父 Widget 的 Resize 事件，通知 overlay 重新定位\"\"\"\n    def __init__(self, overlay):\n        super().__init__(overlay)\n        self._overlay = overlay\n    def eventFilter(self, obj, event):",
+        "detail": "plugins.demo_track.main",
+        "documentation": {}
+    },
+    {
+        "label": "BasePlugin",
+        "kind": 6,
+        "importPath": "plugins.base",
+        "description": "plugins.base",
+        "peekOfCode": "class BasePlugin(ABC):\n    \"\"\"\n    插件基类。所有插件的 main.py 中必须定义 Plugin(BasePlugin) 子类。\n    生命周期：\n        on_load(ctx)   -> 插件被加载时调用，ctx 提供平台接口\n        on_unload()    -> 插件被卸载时调用，释放资源\n        get_panel()    -> 返回插件操作面板 QWidget（显示在左侧停靠区）\n        get_viz_tabs() -> 返回附加可视化标签页列表 [(标题, QWidget), ...]\n    \"\"\"\n    _meta: dict = {}",
+        "detail": "plugins.base",
+        "documentation": {}
+    },
+    {
+        "label": "write_geotiff",
+        "kind": 2,
+        "importPath": "tools.gen_testdata",
+        "description": "tools.gen_testdata",
+        "peekOfCode": "def write_geotiff(path: str, data: np.ndarray,\n                  lat_min: float, lat_max: float,\n                  lon_min: float, lon_max: float,\n                  nodata: float = None):\n    \"\"\"写极简 GeoTIFF（需 rasterio；否则退化为保存 npy + 元数据 json）\"\"\"\n    try:\n        import rasterio\n        from rasterio.transform import from_bounds\n        from rasterio.crs import CRS\n        transform = from_bounds(lon_min, lat_min, lon_max, lat_max,",
+        "detail": "tools.gen_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "smooth",
+        "kind": 2,
+        "importPath": "tools.gen_testdata",
+        "description": "tools.gen_testdata",
+        "peekOfCode": "def smooth(arr: np.ndarray, sigma: float = 5.0) -> np.ndarray:\n    from scipy.ndimage import gaussian_filter\n    return gaussian_filter(arr.astype(np.float32), sigma=sigma)\n# ─────────────────────────────────────────────────────────────\n# 数据生成函数\n# ─────────────────────────────────────────────────────────────\ndef gen_ice_channel(rows=512, cols=512):\n    \"\"\"冰间水道：背景为冰（高值），水道为低值窄条\"\"\"\n    rng = np.random.default_rng(42)\n    data = rng.uniform(0.6, 1.0, (rows, cols)).astype(np.float32)",
+        "detail": "tools.gen_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "gen_ice_channel",
+        "kind": 2,
+        "importPath": "tools.gen_testdata",
+        "description": "tools.gen_testdata",
+        "peekOfCode": "def gen_ice_channel(rows=512, cols=512):\n    \"\"\"冰间水道：背景为冰（高值），水道为低值窄条\"\"\"\n    rng = np.random.default_rng(42)\n    data = rng.uniform(0.6, 1.0, (rows, cols)).astype(np.float32)\n    # 添加3条随机水道\n    for _ in range(3):\n        cx = rng.integers(50, cols - 50)\n        width = rng.integers(5, 20)\n        angle = rng.uniform(-0.3, 0.3)\n        for r in range(rows):",
+        "detail": "tools.gen_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "gen_melt_pond",
+        "kind": 2,
+        "importPath": "tools.gen_testdata",
+        "description": "tools.gen_testdata",
+        "peekOfCode": "def gen_melt_pond(rows=512, cols=512):\n    \"\"\"海冰融池：散布的低后向散射斑块\"\"\"\n    rng = np.random.default_rng(7)\n    data = rng.uniform(0.5, 0.9, (rows, cols)).astype(np.float32)\n    for _ in range(60):\n        cy, cx = rng.integers(30, rows - 30), rng.integers(30, cols - 30)\n        ry, rx = rng.integers(5, 25), rng.integers(5, 25)\n        yy, xx = np.ogrid[-ry:ry + 1, -rx:rx + 1]\n        mask = (yy / ry) ** 2 + (xx / rx) ** 2 <= 1\n        y1, y2 = max(0, cy - ry), min(rows, cy + ry + 1)",
+        "detail": "tools.gen_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "gen_ice_type",
+        "kind": 2,
+        "importPath": "tools.gen_testdata",
+        "description": "tools.gen_testdata",
+        "peekOfCode": "def gen_ice_type(rows=512, cols=512):\n    \"\"\"海冰类型分类：0=海水 1=一年冰 2=多年冰 3=变形冰\"\"\"\n    rng = np.random.default_rng(13)\n    from scipy.ndimage import label, binary_dilation\n    data = rng.choice([0, 1, 2, 3], size=(rows, cols),\n                      p=[0.1, 0.45, 0.35, 0.1]).astype(np.uint8)\n    # 形态学平滑使其连续\n    for cls in range(4):\n        mask = data == cls\n        dilated = binary_dilation(mask, iterations=8)",
+        "detail": "tools.gen_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "gen_ice_ridge",
+        "kind": 2,
+        "importPath": "tools.gen_testdata",
+        "description": "tools.gen_testdata",
+        "peekOfCode": "def gen_ice_ridge(rows=512, cols=512):\n    \"\"\"冰脊参数：粗糙度指数图\"\"\"\n    rng = np.random.default_rng(99)\n    x = np.linspace(0, 4 * np.pi, cols)\n    y = np.linspace(0, 4 * np.pi, rows)\n    xx, yy = np.meshgrid(x, y)\n    base = (np.sin(xx * 1.5) * np.cos(yy) + 1) / 2\n    noise = rng.uniform(0, 0.3, (rows, cols))\n    data = (base + noise).clip(0, 1).astype(np.float32)\n    data = smooth(data, sigma=3)",
+        "detail": "tools.gen_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "gen_track_csv",
+        "kind": 2,
+        "importPath": "tools.gen_testdata",
+        "description": "tools.gen_testdata",
+        "peekOfCode": "def gen_track_csv(n_points=200):\n    \"\"\"测线 CSV：模拟极区飞行测量轨迹\"\"\"\n    rng = np.random.default_rng(55)\n    lat0, lon0 = 78.0, 0.0\n    lats = lat0 + np.cumsum(rng.uniform(0.01, 0.05, n_points))\n    lons = lon0 + np.cumsum(rng.uniform(-0.04, 0.04, n_points))\n    # 每点包含：位置、深度、亮温、后向散射\n    depths = 1.5 + 0.8 * np.sin(np.linspace(0, 3 * np.pi, n_points)) + \\\n             rng.normal(0, 0.15, n_points)\n    depths = depths.clip(0.1, 5.0)",
+        "detail": "tools.gen_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "gen_multiband_3d",
+        "kind": 2,
+        "importPath": "tools.gen_testdata",
+        "description": "tools.gen_testdata",
+        "peekOfCode": "def gen_multiband_3d(rows=400, cols=400):\n    \"\"\"\n    多波段 GeoTIFF（5波段）—— 专为 3D 可视化演示设计\n      Band1: 亮温 TB (K)          — 平滑背景场，范围 [200, 260]\n      Band2: 海冰密集度 SIC (%)   — 块状分布，范围 [0, 100]\n      Band3: 海冰厚度 (m)         — 起伏明显，范围 [0, 5]，适合作 Z 轴\n      Band4: 后向散射 σ° (dB)     — 带噪声，范围 [-25, -5]\n      Band5: 冰脊强度 RI          — 高频起伏，范围 [0, 1]\n    地理范围：北极中心区，78–82°N / -10–10°E\n    \"\"\"",
+        "detail": "tools.gen_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "gen_mat_signal",
+        "kind": 2,
+        "importPath": "tools.gen_testdata",
+        "description": "tools.gen_testdata",
+        "peekOfCode": "def gen_mat_signal(n_signals=50):\n    \"\"\"MAT 格式：模拟冰厚度反演信号（FMCW雷达波形）\"\"\"\n    try:\n        from scipy.io import savemat\n    except ImportError:\n        print(\"  警告: scipy未安装，跳过MAT格式生成\")\n        return None\n    rng = np.random.default_rng(77)\n    n_samples = 12000\n    t = np.linspace(0, 1, n_samples)",
+        "detail": "tools.gen_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "tools.gen_testdata",
+        "description": "tools.gen_testdata",
+        "peekOfCode": "def main():\n    print(f\"测试数据输出目录: {OUT_DIR}\\n\")\n    tasks = [\n        (\"冰间水道测试图\", gen_ice_channel),\n        (\"海冰融池测试图\", gen_melt_pond),\n        (\"海冰类型分类图\", gen_ice_type),\n        (\"冰脊参数测试图\", gen_ice_ridge),\n        (\"测线CSV数据\", gen_track_csv),\n        (\"MAT信号数据\", gen_mat_signal),\n        (\"多波段3D测试图（5波段）\", gen_multiband_3d),",
+        "detail": "tools.gen_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "OUT_DIR",
+        "kind": 5,
+        "importPath": "tools.gen_testdata",
+        "description": "tools.gen_testdata",
+        "peekOfCode": "OUT_DIR = os.path.join(os.path.dirname(__file__), \"..\", \"data\", \"test\")\nos.makedirs(OUT_DIR, exist_ok=True)\n# ─────────────────────────────────────────────────────────────\n# 工具函数\n# ─────────────────────────────────────────────────────────────\ndef write_geotiff(path: str, data: np.ndarray,\n                  lat_min: float, lat_max: float,\n                  lon_min: float, lon_max: float,\n                  nodata: float = None):\n    \"\"\"写极简 GeoTIFF（需 rasterio；否则退化为保存 npy + 元数据 json）\"\"\"",
+        "detail": "tools.gen_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "get_hardware_id",
+        "kind": 2,
+        "importPath": "tools.keygen",
+        "description": "tools.keygen",
+        "peekOfCode": "def get_hardware_id(node: str = None, mac: int = None) -> str:\n    if mac is None:\n        mac = uuid.getnode()\n    if node is None:\n        node = platform.node()\n    raw = f\"{mac}:{node}:{platform.system()}\".encode()\n    return hashlib.sha256(raw).hexdigest()[:32]\ndef generate_keypair():\n    from cryptography.hazmat.primitives.asymmetric import rsa\n    from cryptography.hazmat.primitives import serialization",
+        "detail": "tools.keygen",
+        "documentation": {}
+    },
+    {
+        "label": "generate_keypair",
+        "kind": 2,
+        "importPath": "tools.keygen",
+        "description": "tools.keygen",
+        "peekOfCode": "def generate_keypair():\n    from cryptography.hazmat.primitives.asymmetric import rsa\n    from cryptography.hazmat.primitives import serialization\n    os.makedirs(KEYS_DIR, exist_ok=True)\n    print(\"生成 RSA-2048 密钥对...\")\n    private_key = rsa.generate_private_key(public_exponent=65537, key_size=2048)\n    with open(PRIVATE_KEY_FILE, \"wb\") as f:\n        f.write(private_key.private_bytes(\n            serialization.Encoding.PEM,\n            serialization.PrivateFormat.PKCS8,",
+        "detail": "tools.keygen",
+        "documentation": {}
+    },
+    {
+        "label": "load_private_key",
+        "kind": 2,
+        "importPath": "tools.keygen",
+        "description": "tools.keygen",
+        "peekOfCode": "def load_private_key():\n    from cryptography.hazmat.primitives import serialization\n    if not os.path.exists(PRIVATE_KEY_FILE):\n        print(\"错误: 未找到私钥，请先运行 --genkey\")\n        sys.exit(1)\n    with open(PRIVATE_KEY_FILE, \"rb\") as f:\n        return serialization.load_pem_private_key(f.read(), password=None)\ndef issue_license(hw_id: str, expiry: str = None, note: str = \"\") -> str:\n    from cryptography.hazmat.primitives import hashes\n    from cryptography.hazmat.primitives.asymmetric import padding",
+        "detail": "tools.keygen",
+        "documentation": {}
+    },
+    {
+        "label": "issue_license",
+        "kind": 2,
+        "importPath": "tools.keygen",
+        "description": "tools.keygen",
+        "peekOfCode": "def issue_license(hw_id: str, expiry: str = None, note: str = \"\") -> str:\n    from cryptography.hazmat.primitives import hashes\n    from cryptography.hazmat.primitives.asymmetric import padding\n    private_key = load_private_key()\n    payload = {\n        \"type\": \"hardware\",\n        \"hardware_id\": hw_id,\n        \"issued\": datetime.now().strftime(\"%Y-%m-%d\"),\n        \"note\": note,\n    }",
+        "detail": "tools.keygen",
+        "documentation": {}
+    },
+    {
+        "label": "interactive_mode",
+        "kind": 2,
+        "importPath": "tools.keygen",
+        "description": "tools.keygen",
+        "peekOfCode": "def interactive_mode():\n    print(\"=\" * 55)\n    print(\"  极地海冰平台 - 密钥与许可证管理工具\")\n    print(\"=\" * 55)\n    print()\n    while True:\n        print(\"选择操作：\")\n        print(\"  1. 生成 RSA 密钥对（首次部署运行一次）\")\n        print(\"  2. 查看本机硬件 ID\")\n        print(\"  3. 为硬件 ID 签发许可证\")",
+        "detail": "tools.keygen",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "tools.keygen",
+        "description": "tools.keygen",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description=\"极地海冰平台密钥生成器\")\n    parser.add_argument(\"--hwid\", action=\"store_true\", help=\"显示本机硬件ID\")\n    parser.add_argument(\"--genkey\", action=\"store_true\", help=\"生成RSA密钥对\")\n    parser.add_argument(\"--issue\", metavar=\"HWID\", help=\"为指定硬件ID签发许可证\")\n    parser.add_argument(\"--expiry\", metavar=\"YYYY-MM-DD\", help=\"许可证有效期\")\n    parser.add_argument(\"--note\", default=\"\", help=\"备注信息\")\n    args = parser.parse_args()\n    if args.hwid:\n        print(get_hardware_id())",
+        "detail": "tools.keygen",
+        "documentation": {}
+    },
+    {
+        "label": "KEYS_DIR",
+        "kind": 5,
+        "importPath": "tools.keygen",
+        "description": "tools.keygen",
+        "peekOfCode": "KEYS_DIR = os.path.join(os.path.dirname(__file__), \"..\", \"keys\")\nPRIVATE_KEY_FILE = os.path.join(KEYS_DIR, \"private.pem\")\nPUBLIC_KEY_FILE = os.path.join(KEYS_DIR, \"public.pem\")\nADMIN_CODE = \"SEAICE-ADMIN-2025\"\ndef get_hardware_id(node: str = None, mac: int = None) -> str:\n    if mac is None:\n        mac = uuid.getnode()\n    if node is None:\n        node = platform.node()\n    raw = f\"{mac}:{node}:{platform.system()}\".encode()",
+        "detail": "tools.keygen",
+        "documentation": {}
+    },
+    {
+        "label": "PRIVATE_KEY_FILE",
+        "kind": 5,
+        "importPath": "tools.keygen",
+        "description": "tools.keygen",
+        "peekOfCode": "PRIVATE_KEY_FILE = os.path.join(KEYS_DIR, \"private.pem\")\nPUBLIC_KEY_FILE = os.path.join(KEYS_DIR, \"public.pem\")\nADMIN_CODE = \"SEAICE-ADMIN-2025\"\ndef get_hardware_id(node: str = None, mac: int = None) -> str:\n    if mac is None:\n        mac = uuid.getnode()\n    if node is None:\n        node = platform.node()\n    raw = f\"{mac}:{node}:{platform.system()}\".encode()\n    return hashlib.sha256(raw).hexdigest()[:32]",
+        "detail": "tools.keygen",
+        "documentation": {}
+    },
+    {
+        "label": "PUBLIC_KEY_FILE",
+        "kind": 5,
+        "importPath": "tools.keygen",
+        "description": "tools.keygen",
+        "peekOfCode": "PUBLIC_KEY_FILE = os.path.join(KEYS_DIR, \"public.pem\")\nADMIN_CODE = \"SEAICE-ADMIN-2025\"\ndef get_hardware_id(node: str = None, mac: int = None) -> str:\n    if mac is None:\n        mac = uuid.getnode()\n    if node is None:\n        node = platform.node()\n    raw = f\"{mac}:{node}:{platform.system()}\".encode()\n    return hashlib.sha256(raw).hexdigest()[:32]\ndef generate_keypair():",
+        "detail": "tools.keygen",
+        "documentation": {}
+    },
+    {
+        "label": "ADMIN_CODE",
+        "kind": 5,
+        "importPath": "tools.keygen",
+        "description": "tools.keygen",
+        "peekOfCode": "ADMIN_CODE = \"SEAICE-ADMIN-2025\"\ndef get_hardware_id(node: str = None, mac: int = None) -> str:\n    if mac is None:\n        mac = uuid.getnode()\n    if node is None:\n        node = platform.node()\n    raw = f\"{mac}:{node}:{platform.system()}\".encode()\n    return hashlib.sha256(raw).hexdigest()[:32]\ndef generate_keypair():\n    from cryptography.hazmat.primitives.asymmetric import rsa",
+        "detail": "tools.keygen",
+        "documentation": {}
+    },
+    {
+        "label": "DataPanel",
+        "kind": 6,
+        "importPath": "ui.data_panel",
+        "description": "ui.data_panel",
+        "peekOfCode": "class DataPanel(QWidget):\n    \"\"\"左侧数据管理面板。\"\"\"\n    # 勾选复选框 / 双击 / 右键\"在地图中显示\"时发射\n    show_on_map  = pyqtSignal(str)\n    # 取消复选框 / 数据被移除时发射（通知 MainWindow 移除图层）\n    hide_from_map = pyqtSignal(str)\n    def __init__(self, data_manager: DataManager, log_fn, parent=None):\n        super().__init__(parent)\n        self._dm  = data_manager\n        self._log = log_fn",
+        "detail": "ui.data_panel",
+        "documentation": {}
+    },
+    {
+        "label": "_FILE_FILTER",
+        "kind": 5,
+        "importPath": "ui.data_panel",
+        "description": "ui.data_panel",
+        "peekOfCode": "_FILE_FILTER = (\n    \"遥感数据文件 (*.tif *.tiff *.nc *.nc4 *.h5 *.hdf5 *.img *.dat *.csv *.txt);;\"\n    \"GeoTIFF (*.tif *.tiff);;\"\n    \"NetCDF (*.nc *.nc4);;\"\n    \"HDF5 (*.h5 *.hdf5);;\"\n    \"所有文件 (*)\"\n)\n_SCAN_EXTS = {\".tif\", \".tiff\", \".nc\", \".nc4\", \".h5\", \".hdf5\", \".img\", \".dat\", \".csv\"}\n# 可直接在地图上可视化的扩展名\n_MAP_EXTS = {\".tif\", \".tiff\", \".geojson\", \".json\"}",
+        "detail": "ui.data_panel",
+        "documentation": {}
+    },
+    {
+        "label": "_SCAN_EXTS",
+        "kind": 5,
+        "importPath": "ui.data_panel",
+        "description": "ui.data_panel",
+        "peekOfCode": "_SCAN_EXTS = {\".tif\", \".tiff\", \".nc\", \".nc4\", \".h5\", \".hdf5\", \".img\", \".dat\", \".csv\"}\n# 可直接在地图上可视化的扩展名\n_MAP_EXTS = {\".tif\", \".tiff\", \".geojson\", \".json\"}\nclass DataPanel(QWidget):\n    \"\"\"左侧数据管理面板。\"\"\"\n    # 勾选复选框 / 双击 / 右键\"在地图中显示\"时发射\n    show_on_map  = pyqtSignal(str)\n    # 取消复选框 / 数据被移除时发射（通知 MainWindow 移除图层）\n    hide_from_map = pyqtSignal(str)\n    def __init__(self, data_manager: DataManager, log_fn, parent=None):",
+        "detail": "ui.data_panel",
+        "documentation": {}
+    },
+    {
+        "label": "_MAP_EXTS",
+        "kind": 5,
+        "importPath": "ui.data_panel",
+        "description": "ui.data_panel",
+        "peekOfCode": "_MAP_EXTS = {\".tif\", \".tiff\", \".geojson\", \".json\"}\nclass DataPanel(QWidget):\n    \"\"\"左侧数据管理面板。\"\"\"\n    # 勾选复选框 / 双击 / 右键\"在地图中显示\"时发射\n    show_on_map  = pyqtSignal(str)\n    # 取消复选框 / 数据被移除时发射（通知 MainWindow 移除图层）\n    hide_from_map = pyqtSignal(str)\n    def __init__(self, data_manager: DataManager, log_fn, parent=None):\n        super().__init__(parent)\n        self._dm  = data_manager",
+        "detail": "ui.data_panel",
+        "documentation": {}
+    },
+    {
+        "label": "DataSelectorWidget",
+        "kind": 6,
+        "importPath": "ui.data_selector",
+        "description": "ui.data_selector",
+        "peekOfCode": "class DataSelectorWidget(QWidget):\n    \"\"\"下拉框 + 路径输入 + 浏览按钮的组合控件，可感知 DataManager 变化。\"\"\"\n    path_changed = pyqtSignal(str)   # 路径改变时发射\n    def __init__(\n        self,\n        data_manager=None,           # DataManager | None\n        dtypes: Optional[List[str]] = None,\n        file_filter: str = \"所有文件 (*)\",\n        placeholder: str = \"选择文件或从上方下拉框选择\",\n        parent: Optional[QWidget] = None,",
+        "detail": "ui.data_selector",
+        "documentation": {}
+    },
+    {
+        "label": "LicenseDialog",
+        "kind": 6,
+        "importPath": "ui.license_dialog",
+        "description": "ui.license_dialog",
+        "peekOfCode": "class LicenseDialog(QDialog):\n    def __init__(self, license_manager, parent=None):\n        super().__init__(parent)\n        self.lm = license_manager\n        self.setWindowTitle(\"软件授权\")\n        self.setFixedSize(480, 380)\n        self.setWindowFlags(self.windowFlags() & ~Qt.WindowType.WindowContextHelpButtonHint)\n        self._build_ui()\n    def _build_ui(self):\n        lay = QVBoxLayout(self)",
+        "detail": "ui.license_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "MainWindow",
+        "kind": 6,
+        "importPath": "ui.main_window",
+        "description": "ui.main_window",
+        "peekOfCode": "class MainWindow(QMainWindow):\n    def __init__(self, project: Project | None = None,\n                 license_info: dict | None = None):\n        super().__init__()\n        # ── 核心对象 ────────────────────────────────────────────────────────\n        self._project: Project | None = project\n        self._dm = DataManager(self)\n        self._pm = PluginManager(os.path.join(ROOT, \"plugins\"))\n        self._pm.discover()\n        self._map = MapWidget()",
+        "detail": "ui.main_window",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "ui.main_window",
+        "description": "ui.main_window",
+        "peekOfCode": "ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\nif ROOT not in sys.path:\n    sys.path.insert(0, ROOT)\nfrom core import config as cfg\nfrom core.data_manager import DataManager\nfrom core.events import bus\nfrom core.plugin_manager import PluginContext, PluginManager\nfrom core.project import DatasetRecord, Project, PROJECT_EXT\nfrom ui.data_panel import DataPanel\nfrom ui.map_widget import MapWidget",
+        "detail": "ui.main_window",
+        "documentation": {}
+    },
+    {
+        "label": "_MapBridge",
+        "kind": 6,
+        "importPath": "ui.map_widget",
+        "description": "ui.map_widget",
+        "peekOfCode": "class _MapBridge(QObject):\n    clicked = pyqtSignal(float, float)\n    @pyqtSlot(float, float)\n    def on_click(self, lat: float, lng: float):\n        self.clicked.emit(lat, lng)\nclass MapWidget(QWidget):\n    map_clicked = pyqtSignal(float, float)\n    basemaps = list(_BASEMAPS.keys())\n    def __init__(self, parent=None):\n        super().__init__(parent)",
+        "detail": "ui.map_widget",
+        "documentation": {}
+    },
+    {
+        "label": "MapWidget",
+        "kind": 6,
+        "importPath": "ui.map_widget",
+        "description": "ui.map_widget",
+        "peekOfCode": "class MapWidget(QWidget):\n    map_clicked = pyqtSignal(float, float)\n    basemaps = list(_BASEMAPS.keys())\n    def __init__(self, parent=None):\n        super().__init__(parent)\n        self._view = QWebEngineView()\n        self._channel = QWebChannel()\n        self._bridge = _MapBridge()\n        self._bridge.clicked.connect(self.map_clicked)\n        self._channel.registerObject(\"bridge\", self._bridge)",
+        "detail": "ui.map_widget",
+        "documentation": {}
+    },
+    {
+        "label": "_BASEMAPS",
+        "kind": 5,
+        "importPath": "ui.map_widget",
+        "description": "ui.map_widget",
+        "peekOfCode": "_BASEMAPS = {\n    \"简洁灰\": {\n        \"url\": \"https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png\",\n        \"attribution\": \"CartoDB\",\n        \"maxZoom\": 19,\n        \"subdomains\": \"abcd\",\n    },\n    \"深色\": {\n        \"url\": \"https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png\",\n        \"attribution\": \"CartoDB\",",
+        "detail": "ui.map_widget",
+        "documentation": {}
+    },
+    {
+        "label": "_MAP_HTML",
+        "kind": 5,
+        "importPath": "ui.map_widget",
+        "description": "ui.map_widget",
+        "peekOfCode": "_MAP_HTML = \"\"\"<!DOCTYPE html>\n<html>\n<head>\n<meta charset=\"utf-8\"/>\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css\"/>\n<style>\n  html, body, #map { width:100%; height:100%; margin:0; padding:0; background:#ECEFF1; }\n  .leaflet-control-attribution { font-size:10px; }\n  #coords-bar {",
+        "detail": "ui.map_widget",
+        "documentation": {}
+    },
+    {
+        "label": "PluginManagerDialog",
+        "kind": 6,
+        "importPath": "ui.plugin_dialog",
+        "description": "ui.plugin_dialog",
+        "peekOfCode": "class PluginManagerDialog(QDialog):\n    def __init__(self, plugin_manager, context, parent=None):\n        super().__init__(parent)\n        self.pm = plugin_manager\n        self.ctx = context\n        self.setWindowTitle(\"插件管理器\")\n        self.resize(700, 460)\n        self._build_ui()\n        self._refresh()\n    def _build_ui(self):",
+        "detail": "ui.plugin_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "_ExportWorker",
+        "kind": 6,
+        "importPath": "ui.report_dialog",
+        "description": "ui.report_dialog",
+        "peekOfCode": "class _ExportWorker(QThread):\n    progress     = pyqtSignal(str)\n    result_ready = pyqtSignal(list)   # 不用 finished 避免与 QThread.finished 冲突\n    failed       = pyqtSignal(str)\n    def __init__(self, config, assets, parent=None):\n        super().__init__(parent)\n        self._config = config\n        self._assets = assets\n    def run(self):\n        import sys, os",
+        "detail": "ui.report_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "ReportDialog",
+        "kind": 6,
+        "importPath": "ui.report_dialog",
+        "description": "ui.report_dialog",
+        "peekOfCode": "class ReportDialog(QDialog):\n    \"\"\"导出报告配置对话框。\"\"\"\n    def __init__(self, map_widget, plugin_manager, parent=None):\n        super().__init__(parent)\n        self._map = map_widget\n        self._pm  = plugin_manager\n        self._worker = None\n        self.setWindowTitle(\"导出分析报告\")\n        self.setMinimumWidth(460)\n        self.setModal(True)",
+        "detail": "ui.report_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "StartupDialog",
+        "kind": 6,
+        "importPath": "ui.startup_dialog",
+        "description": "ui.startup_dialog",
+        "peekOfCode": "class StartupDialog(QDialog):\n    def __init__(self, parent=None):\n        super().__init__(parent)\n        self.project: Project | None = None\n        self.setWindowTitle(\"极地海冰多参数综合反演平台\")\n        self.setWindowFlags(Qt.WindowType.Dialog | Qt.WindowType.FramelessWindowHint)\n        self.setFixedSize(780, 500)\n        self._build()\n    # ── UI ──────────────────────────────────────────────────────────────────\n    def _build(self):",
+        "detail": "ui.startup_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "PALETTE",
+        "kind": 5,
+        "importPath": "ui.style",
+        "description": "ui.style",
+        "peekOfCode": "PALETTE = {\n    \"nav\":          \"#0F1E33\",\n    \"nav_light\":    \"#162B45\",\n    \"accent\":       \"#00C4E8\",\n    \"accent_dark\":  \"#009CBB\",\n    \"bg\":           \"#ECF0F7\",\n    \"surface\":      \"#FFFFFF\",\n    \"panel\":        \"#F4F7FC\",\n    \"border\":       \"#CDD6E8\",\n    \"border_light\": \"#E4EAF5\",",
+        "detail": "ui.style",
+        "documentation": {}
+    },
+    {
+        "label": "_P",
+        "kind": 5,
+        "importPath": "ui.style",
+        "description": "ui.style",
+        "peekOfCode": "_P = PALETTE\nSTYLESHEET = f\"\"\"\n/* ── 全局 ─────────────────────────────────── */\nQMainWindow, QDialog {{\n    background: {_P['bg']};\n    font-family: \"Microsoft YaHei\", \"PingFang SC\", \"Segoe UI\", sans-serif;\n    font-size: 13px;\n    color: {_P['text']};\n}}\n/* ── 菜单栏 ───────────────────────────────── */",
+        "detail": "ui.style",
+        "documentation": {}
+    },
+    {
+        "label": "STYLESHEET",
+        "kind": 5,
+        "importPath": "ui.style",
+        "description": "ui.style",
+        "peekOfCode": "STYLESHEET = f\"\"\"\n/* ── 全局 ─────────────────────────────────── */\nQMainWindow, QDialog {{\n    background: {_P['bg']};\n    font-family: \"Microsoft YaHei\", \"PingFang SC\", \"Segoe UI\", sans-serif;\n    font-size: 13px;\n    color: {_P['text']};\n}}\n/* ── 菜单栏 ───────────────────────────────── */\nQMenuBar {{",
+        "detail": "ui.style",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main():\n    app = QApplication(sys.argv)\n    app.setApplicationName(\"极地海冰多参数综合反演平台\")\n    app.setOrganizationName(\"SeaIce Lab\")\n    app.setStyleSheet(STYLESHEET)\n    # ── 授权检查 ─────────────────────────────────────────────────────────────\n    lm = LicenseManager()\n    ok, msg = lm.check()\n    if not ok:\n        from ui.license_dialog import LicenseDialog",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "ROOT = os.path.dirname(os.path.abspath(__file__))\nif ROOT not in sys.path:\n    sys.path.insert(0, ROOT)\nfrom PyQt6.QtWidgets import QApplication\nfrom PyQt6.QtWebEngineWidgets import QWebEngineView  # noqa: F401（必须在 QApplication 前导入）\nfrom core.license import LicenseManager\nfrom ui.style import STYLESHEET\ndef main():\n    app = QApplication(sys.argv)\n    app.setApplicationName(\"极地海冰多参数综合反演平台\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "FakeMap",
+        "kind": 6,
+        "importPath": "preview",
+        "description": "preview",
+        "peekOfCode": "class FakeMap:\n    def add_geotiff_layer(self, *a, **k): pass\n    def add_geojson(self, *a, **k): pass\n    def remove_layer(self, *a, **k): pass\n    def clear_all(self): pass\n    def set_basemap(self, *a): pass\n    def set_layer_opacity(self, *a): pass\n    def add_image_overlay(self, *a, **k): pass\nclass FakeEvents:\n    def publish(self, *a, **k): pass",
+        "detail": "preview",
+        "documentation": {}
+    },
+    {
+        "label": "FakeEvents",
+        "kind": 6,
+        "importPath": "preview",
+        "description": "preview",
+        "peekOfCode": "class FakeEvents:\n    def publish(self, *a, **k): pass\n    def subscribe(self, *a, **k): pass\nclass FakeCtx:\n    map    = FakeMap()\n    events = FakeEvents()\n    data   = None\n    def log(self, msg): print(msg)\nctx = FakeCtx()\n# ── 各面板预览 ───────────────────────────────────────────────────────────────",
+        "detail": "preview",
+        "documentation": {}
+    },
+    {
+        "label": "FakeCtx",
+        "kind": 6,
+        "importPath": "preview",
+        "description": "preview",
+        "peekOfCode": "class FakeCtx:\n    map    = FakeMap()\n    events = FakeEvents()\n    data   = None\n    def log(self, msg): print(msg)\nctx = FakeCtx()\n# ── 各面板预览 ───────────────────────────────────────────────────────────────\ndef preview_data_panel():\n    from core.data_manager import DataManager\n    from ui.data_panel import DataPanel",
+        "detail": "preview",
+        "documentation": {}
+    },
+    {
+        "label": "preview_data_panel",
+        "kind": 2,
+        "importPath": "preview",
+        "description": "preview",
+        "peekOfCode": "def preview_data_panel():\n    from core.data_manager import DataManager\n    from ui.data_panel import DataPanel\n    dm = DataManager()\n    # 插入几条假数据，方便看效果\n    dm.add(\"/tmp/demo_ice.tif\",  name=\"冰厚度图\",   dtype=\"GeoTIFF\")\n    dm.add(\"/tmp/demo_sic.nc\",   name=\"海冰密集度\",  dtype=\"NetCDF\")\n    dm.add(\"/tmp/track.csv\",     name=\"航迹数据\",    dtype=\"CSV\")\n    ctx.data = dm\n    panel = DataPanel(dm, print)",
+        "detail": "preview",
+        "documentation": {}
+    },
+    {
+        "label": "preview_plugin",
+        "kind": 2,
+        "importPath": "preview",
+        "description": "preview",
+        "peekOfCode": "def preview_plugin(plugin_dir: str):\n    \"\"\"通用插件面板预览。\"\"\"\n    from core.data_manager import DataManager\n    dm = DataManager()\n    dm.add(\"/tmp/demo_ice.tif\", name=\"冰厚度图\", dtype=\"GeoTIFF\")\n    ctx.data = dm\n    sys.path.insert(0, os.path.join(ROOT, \"plugins\", plugin_dir))\n    import importlib, importlib.util\n    spec = importlib.util.spec_from_file_location(\n        \"plugin_main\",",
+        "detail": "preview",
+        "documentation": {}
+    },
+    {
+        "label": "preview_startup",
+        "kind": 2,
+        "importPath": "preview",
+        "description": "preview",
+        "peekOfCode": "def preview_startup():\n    from ui.startup_dialog import StartupDialog\n    dlg = StartupDialog()\n    dlg.show()\n    return dlg\n# ── 路由 ────────────────────────────────────────────────────────────────────\nwidgets = []   # 防止被 GC\nif target == \"data_panel\":\n    widgets.append(preview_data_panel())\nelif target == \"startup\":",
+        "detail": "preview",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "preview",
+        "description": "preview",
+        "peekOfCode": "ROOT = os.path.dirname(os.path.abspath(__file__))\nsys.path.insert(0, ROOT)\nfrom PyQt6.QtWidgets import QApplication, QMainWindow, QDockWidget, QLabel\nfrom PyQt6.QtCore import Qt\ntarget = sys.argv[1] if len(sys.argv) > 1 else \"data_panel\"\napp = QApplication(sys.argv)\n# ── 加载样式表（和主程序一致） ───────────────────────────────────────────────\ntry:\n    from core import config as cfg\n    style_path = os.path.join(ROOT, \"ui\", \"style.qss\")",
+        "detail": "preview",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "preview",
+        "description": "preview",
+        "peekOfCode": "target = sys.argv[1] if len(sys.argv) > 1 else \"data_panel\"\napp = QApplication(sys.argv)\n# ── 加载样式表（和主程序一致） ───────────────────────────────────────────────\ntry:\n    from core import config as cfg\n    style_path = os.path.join(ROOT, \"ui\", \"style.qss\")\n    if os.path.exists(style_path):\n        with open(style_path, encoding=\"utf-8\") as f:\n            app.setStyleSheet(f.read())\nexcept Exception as e:",
+        "detail": "preview",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "preview",
+        "description": "preview",
+        "peekOfCode": "app = QApplication(sys.argv)\n# ── 加载样式表（和主程序一致） ───────────────────────────────────────────────\ntry:\n    from core import config as cfg\n    style_path = os.path.join(ROOT, \"ui\", \"style.qss\")\n    if os.path.exists(style_path):\n        with open(style_path, encoding=\"utf-8\") as f:\n            app.setStyleSheet(f.read())\nexcept Exception as e:\n    print(f\"[预览] 样式表加载失败（可忽略）: {e}\")",
+        "detail": "preview",
+        "documentation": {}
+    },
+    {
+        "label": "ctx",
+        "kind": 5,
+        "importPath": "preview",
+        "description": "preview",
+        "peekOfCode": "ctx = FakeCtx()\n# ── 各面板预览 ───────────────────────────────────────────────────────────────\ndef preview_data_panel():\n    from core.data_manager import DataManager\n    from ui.data_panel import DataPanel\n    dm = DataManager()\n    # 插入几条假数据，方便看效果\n    dm.add(\"/tmp/demo_ice.tif\",  name=\"冰厚度图\",   dtype=\"GeoTIFF\")\n    dm.add(\"/tmp/demo_sic.nc\",   name=\"海冰密集度\",  dtype=\"NetCDF\")\n    dm.add(\"/tmp/track.csv\",     name=\"航迹数据\",    dtype=\"CSV\")",
+        "detail": "preview",
+        "documentation": {}
+    },
+    {
+        "label": "widgets",
+        "kind": 5,
+        "importPath": "preview",
+        "description": "preview",
+        "peekOfCode": "widgets = []   # 防止被 GC\nif target == \"data_panel\":\n    widgets.append(preview_data_panel())\nelif target == \"startup\":\n    widgets.append(preview_startup())\nelif target in (\"demo_3d\", \"demo_2d\", \"algo_library\", \"demo_track\"):\n    widgets.append(preview_plugin(target))\nelse:\n    print(f\"未知目标: {target}\")\n    print(\"可用: data_panel | startup | demo_3d | demo_2d | algo_library | demo_track\")",
+        "detail": "preview",
+        "documentation": {}
+    }
+]
